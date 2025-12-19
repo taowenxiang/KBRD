@@ -1,0 +1,17 @@
+pii_type,total,leaked,leak_rate,avg_token_f1_vs_oracle_friendly,avg_len_ratio_vs_raw,avg_change_ratio_vs_raw
+OVERALL,2149,267,0.12424383434155421,0.9267212744746226,1.0228516364892815,0.1328443677900341
+exact_score,330,58,0.17575757575757575,,,
+other_person_name,290,17,0.05862068965517241,,,
+class_time,250,25,0.1,,,
+classroom,250,9,0.036,,,
+section,250,16,0.064,,,
+other_person_score,200,6,0.03,,,
+unique_detail,140,59,0.42142857142857143,,,
+student_id,80,0,0.0,,,
+dorm,60,0,0.0,,,
+dorm_room,60,23,0.38333333333333336,,,
+email,60,0,0.0,,,
+accommodation_note,50,46,0.92,,,
+social_handle,50,0,0.0,,,
+phone,40,0,0.0,,,
+instructor_mentioned,39,8,0.20512820512820512,,,
